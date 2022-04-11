@@ -1,0 +1,17 @@
+Q1
+Subnetting
+
+Q2
+32
+
+Q3
+0-255
+
+Q4
+Network Adress
+
+Q5
+Host Adress
+
+Q6
+Default Gateway

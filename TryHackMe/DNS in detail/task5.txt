@@ -1,0 +1,11 @@
+Q1
+shops.myshopify.com
+
+Q2
+THM{7012BBA60997F35A9516C2E16D2944FF}
+
+Q3
+30
+
+Q4
+10.10.10.10

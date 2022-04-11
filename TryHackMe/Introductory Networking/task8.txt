@@ -1,0 +1,17 @@
+Q1
+Domain Name System
+
+Q2
+Recursive
+
+Q3
+Top-Level Domain
+
+Q4
+Local Cache
+
+Q5
+8.8.4.4
+
+Q6
+86400

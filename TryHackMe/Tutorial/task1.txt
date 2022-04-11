@@ -1,2 +1,2 @@
 Q1
--flag{connection_verified}
+flag{connection_verified}

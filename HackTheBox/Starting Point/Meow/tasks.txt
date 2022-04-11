@@ -1,26 +1,26 @@
 T1
--Virtual Machine
+Virtual Machine
 
 T2
--terminal
+terminal
 
 T3
--openvpn
+openvpn
 
 T4
--tun
+tun
 
 T5
--ping
+ping
 
 T6
--nmap
+nmap
 
 T7
--telnet
+telnet
 
 T8
--root
+root
 
 T9
--b40abdfe23665f766f9c61ecba8a4c19
+b40abdfe23665f766f9c61ecba8a4c19
