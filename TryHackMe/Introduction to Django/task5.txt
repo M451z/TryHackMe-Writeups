@@ -1,8 +1,0 @@
-Q1
-THM{DjanGO_Adm1n}
-
-Q2
-THM{SSH_gUy_101}
-
-Q3
-THM{django_w1zzzard}

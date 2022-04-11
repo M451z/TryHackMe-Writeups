@@ -1,8 +1,0 @@
-Q1
-DHCP Discover
-
-Q2
-DHCP Request
-
-Q3
-DHCP ACK

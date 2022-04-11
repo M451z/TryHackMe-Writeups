@@ -1,8 +1,0 @@
-Q1
-HyperText Transfer Protocol
-
-Q2
-secure
-
-Q3
-THM{INVALID_HTTP_CERT}

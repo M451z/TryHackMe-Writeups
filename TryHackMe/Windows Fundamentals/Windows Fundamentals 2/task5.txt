@@ -1,8 +1,0 @@
-Q1
-msinfo32.exe
-
-Q2
-THM-WINFUN2
-
-Q3
-%SystemRoot%\system32\cmd.exe

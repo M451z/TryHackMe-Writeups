@@ -1,8 +1,0 @@
-Q1
-User-Agent
-
-Q2
-Content-Type
-
-Q3
-Host

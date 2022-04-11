@@ -1,5 +1,0 @@
-Q1
-HTTP/1.1
-
-Q2
-Content-Length

@@ -1,5 +1,0 @@
-Q1
-C:\Windows\System32\cmd.exe /k %windir%\system32\ipconfig.exe
-
-Q2
-ipconfig /all

@@ -1,8 +1,0 @@
-Q1
-ICMP
-
-Q2
-ping 10.10.10.10
-
-Q3
-THM{I_PINGED_THE_SERVER}
