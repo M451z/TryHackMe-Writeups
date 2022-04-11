@@ -1,0 +1,8 @@
+Q1
+manually
+
+Q2
+automated
+
+Q3
+osint

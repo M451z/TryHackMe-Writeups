@@ -1,0 +1,5 @@
+Q1
+smb-os-discovery.nse
+
+Q2
+smb-brute

@@ -1,0 +1,14 @@
+Q1
+repeater
+
+Q2
+NTLM
+
+Q3
+cron jobs
+
+Q4
+base 16
+
+Q5
+SHA512crypt

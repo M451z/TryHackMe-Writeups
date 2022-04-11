@@ -1,0 +1,5 @@
+Q1
+/monthly
+
+Q2
+/development.log
