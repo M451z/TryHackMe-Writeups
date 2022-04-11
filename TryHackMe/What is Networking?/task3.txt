@@ -1,0 +1,14 @@
+Q1
+Internet Protocol
+
+Q2
+Octet
+
+Q3
+4
+
+Q4
+Media Access Control
+
+Q5
+THM{YOU_GOT_ON_TRYHACKME}

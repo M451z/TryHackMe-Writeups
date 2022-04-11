@@ -1,0 +1,5 @@
+Q1
+echo TryHackMe
+
+Q2
+tryhackme

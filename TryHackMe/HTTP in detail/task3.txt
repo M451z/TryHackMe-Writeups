@@ -1,0 +1,11 @@
+Q1
+POST
+
+Q2
+PUT
+
+Q3
+DELETE
+
+Q4
+GET

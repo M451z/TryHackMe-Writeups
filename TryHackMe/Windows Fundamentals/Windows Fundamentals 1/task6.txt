@@ -1,0 +1,11 @@
+Q1
+tryhackmebilly
+
+Q2
+Remote Desktop Users,Users
+
+Q3
+Guest
+
+Q4
+Account is disabled

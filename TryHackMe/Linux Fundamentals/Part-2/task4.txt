@@ -1,0 +1,11 @@
+Q1
+touch newnote
+
+Q2
+ASCII text
+
+Q3
+mv myfile myfolder
+
+Q4
+THM{FILESYSTEM}
