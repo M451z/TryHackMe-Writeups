@@ -1,0 +1,11 @@
+Q1
+4
+
+Q2
+folder4
+
+Q3
+Hello World
+
+Q4
+/home/tryhackme/folder4

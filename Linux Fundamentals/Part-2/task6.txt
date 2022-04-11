@@ -1,0 +1,8 @@
+Q2
+/var/log
+
+Q3
+/tmp
+
+Q4
+/root
