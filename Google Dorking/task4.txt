@@ -1,0 +1,14 @@
+Q1
+ablog.com/robots.txt
+
+Q2
+/sitemap.xml
+
+Q3
+User-agent: Bingbot
+
+Q4
+Disallow: /dont-index-me/
+
+Q5
+.conf

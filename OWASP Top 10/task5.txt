@@ -1,0 +1,17 @@
+Q1 
+drpepper.txt
+
+Q2
+0
+
+Q3
+www-data
+
+Q4
+/usr/sbin/nologin
+
+Q5
+18.04.4
+
+Q6
+Dr Pepper

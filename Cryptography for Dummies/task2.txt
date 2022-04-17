@@ -1,0 +1,17 @@
+Q1
+asymmetric
+
+Q2
+symmetric
+
+Q3
+asymmetric
+
+Q4
+public key
+
+Q5
+private key
+
+Q6
+nay

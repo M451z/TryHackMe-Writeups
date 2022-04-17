@@ -1,0 +1,26 @@
+Q2
+URL to attack
+
+Q4
+robots.txt
+
+Q5
+/
+
+Q6
+/dvwa/images/
+
+Q7
+HttpOnly
+
+Q8
+Web Browser XSS Protection Not Enabled
+
+Q9
+http://www.dvwa.co.uk
+
+Q10
+GET
+
+Q11
+POST

@@ -1,0 +1,11 @@
+Q1
+Extensible Markup Language
+
+Q2
+no
+
+Q3
+yes
+
+Q4
+XML prolog

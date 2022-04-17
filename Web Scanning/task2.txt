@@ -1,0 +1,38 @@
+Q1
+-h
+
+Q2
+-nossl
+
+Q3
+-ssl
+
+Q4
+-p
+
+Q5
+-dbcheck
+
+Q6
+-mutate 3
+
+Q7
+-id admin:PrettyAwesomePassword1234
+
+Q8
+Apache/2.4.7
+
+Q9
+config
+
+Q10
+-until
+
+Q11
+-list-plugins
+
+Q12
+-Plugins outdated
+
+Q13
+-Plugins tests

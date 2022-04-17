@@ -1,0 +1,2 @@
+Q1
+mysql -h somehost.local -uroot -ppassword123

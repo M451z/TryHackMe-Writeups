@@ -1,0 +1,8 @@
+Q1
+find / -type f -name "*.xml"
+
+Q2
+find /home -type f -iname "user.txt"
+
+Q3
+find / -type d -name "*exploits*"

@@ -1,0 +1,8 @@
+Q1
+!ELEMENT
+
+Q2
+!DOCTYPE
+
+Q3
+!ENTITY

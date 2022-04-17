@@ -1,0 +1,26 @@
+Q1
+find / -type f -user kittycat
+
+Q2
+find / -type f -size 150c
+
+Q3
+find /home -type f -size -2k -name "*.txt"
+
+Q4
+find / -type f -perm 644
+
+Q5
+find / -type f -perm /444
+
+Q6
+find / -type f -perm -o=w -name "*.sh"
+
+Q7
+find /usr/bin -type f -user root -perm -u=s
+
+Q8
+find / -type f -atime +10 -name "*.png"
+
+Q9
+find /usr/bin -type f -mmin -120

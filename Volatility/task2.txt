@@ -1,0 +1,8 @@
+Q1
+.raw
+
+Q2
+hiberfil.sys
+
+Q3
+.vmem
