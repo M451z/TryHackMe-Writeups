@@ -1,0 +1,8 @@
+Q1
+TryHackMe{K3rb3r0s_Pr3_4uth}
+
+Q2
+TryHackMe{B4ckM3UpSc0tty!}
+
+Q3
+TryHackMe{4ctiveD1rectoryM4st3r}

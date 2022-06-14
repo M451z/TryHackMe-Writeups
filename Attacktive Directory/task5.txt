@@ -1,0 +1,11 @@
+Q1
+svc-admin
+
+Q2
+Kerberos 5, etype 23, AS-REP
+
+Q3
+18200
+
+Q4
+management2005

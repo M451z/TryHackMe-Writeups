@@ -1,0 +1,11 @@
+Q1
+set LPORT 6666
+
+Q2
+setg RHOSTS 10.10.19.23
+
+Q3
+unset PAYLOAD
+
+Q4
+exploit

@@ -1,0 +1,17 @@
+Q1
+smbclient
+
+Q2
+-L
+
+Q3
+6
+
+Q4
+backup
+
+Q5
+YmFja3VwQHNwb29reXNlYy5sb2NhbDpiYWNrdXAyNTE3ODYw
+
+Q6
+backup@spookysec.local:backup2517860
