@@ -1,0 +1,26 @@
+Q1
+-u
+
+Q2
+-p
+
+Q3
+-H
+
+Q4
+-x
+
+Q5
+-s
+
+Q6
+-d
+
+Q7
+--download
+
+Q8
+--upload
+
+Q9
+smbmap -u "admin" -p "password" -H "10.10.10.10" -x "ipconfig"

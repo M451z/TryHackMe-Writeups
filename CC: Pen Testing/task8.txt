@@ -1,0 +1,35 @@
+Q1
+use exploit/windows/smb/ms17_010_eternalblue
+
+Q2
+RHOSTS
+
+Q3
+RPORT
+
+Q4
+set
+
+Q5
+set SMBPass username
+
+Q6
+set SMBUser password
+
+Q7
+arch
+
+Q8
+payload
+
+Q9
+exploit
+
+Q10
+-j
+
+Q11
+sessions
+
+Q12
+-i

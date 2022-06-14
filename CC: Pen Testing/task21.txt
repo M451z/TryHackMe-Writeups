@@ -1,0 +1,23 @@
+Q1
+-w
+
+Q2
+-l
+
+Q3
+-c "ipconfig"
+
+Q4
+-U
+
+Q5
+-P
+
+Q6
+-N
+
+Q7
+get test
+
+Q8
+put /etc/hosts

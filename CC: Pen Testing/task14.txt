@@ -1,0 +1,14 @@
+Q1
+--wordlist
+
+Q2
+--format
+
+Q3
+--rules
+
+Q4
+hello
+
+Q5
+password
