@@ -1,0 +1,11 @@
+Q1
+26
+
+Q2
+AppCompatCache
+
+Q3
+AmCache
+
+Q4
+BAM/DAM

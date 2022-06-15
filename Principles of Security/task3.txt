@@ -1,0 +1,11 @@
+Q1
+Privileged Identity Management
+
+Q2
+Privileged Access Management
+
+Q3
+PAM
+
+Q4
+PIM

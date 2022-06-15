@@ -1,0 +1,44 @@
+Q1
+3f08c518adb3b5c1359849657a9b2079
+
+Q2
+DESKTOP-0R59DJ3
+
+Q3
+H4S4N,joshwa,keshav,sandhya,shreya,sivapriya,srini,suba
+
+Q4
+sivapriya
+
+Q5
+192.168.130.216
+
+Q6
+08-00-27-2c-c4-b9
+
+Q7
+Intel(R) PRO/1000 MT Desktop Adapter
+
+Q8
+Look@LAN
+
+Q9
+12°52'23.0"N 80°13'25.0"E
+
+Q10
+Anto Joshwa
+
+Q11
+flag{HarleyQuinnForQueen}
+
+Q12
+flag{I-hacked-you}
+
+Q13
+Lazagne, Mimikatz
+
+Q14
+Benjamin DELPY (gentilkiwi)
+
+Q15
+2.2.0 20200918 Zerologon encrypted.zip

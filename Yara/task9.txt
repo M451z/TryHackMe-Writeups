@@ -1,0 +1,23 @@
+Q1
+suspicious
+
+Q2
+webshell_metaslsoft
+
+Q3
+Web shell
+
+Q4
+Str1
+
+Q5
+b374k 2.2
+
+Q6
+1
+
+Q7
+benign
+
+Q8
+b374k 3.2.3

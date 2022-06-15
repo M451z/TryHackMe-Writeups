@@ -1,0 +1,11 @@
+Q1
+3
+
+Q2
+THM-402028394
+
+Q3
+sudo nmap --interactive
+
+Q4
+$6$2.sUUDsOLIpXKxcr$eImtgFExyr2ls4jsghdD3DHLHHP9X50Iv.jNmwo/BJpphrPRJWjelWEz2HH.joV14aDEwW1c3CahzB1uaqeLR1

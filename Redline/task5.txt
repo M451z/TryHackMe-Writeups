@@ -1,0 +1,14 @@
+Q1
+psylog.exe
+
+Q2
+THM1768.exe
+
+Q3
+WIN-2DET5DP0NPT\charles
+
+Q4
+35400
+
+Q5
+C:\Users\charles\Desktop\Keylogger-IOCSearch\IOCs\keylogger.ioc

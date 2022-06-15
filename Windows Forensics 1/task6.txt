@@ -1,0 +1,17 @@
+Q1
+19044
+
+Q2
+1
+
+Q3
+THM-4n6
+
+Q4
+Pakistan Standard Time
+
+Q5
+192.168.100.58
+
+Q6
+501

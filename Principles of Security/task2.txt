@@ -1,0 +1,8 @@
+Q1
+integrity
+
+Q2
+availability
+
+Q3
+confidentiality

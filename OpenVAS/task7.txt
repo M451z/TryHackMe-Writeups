@@ -1,0 +1,20 @@
+Q1
+Feb 28, 00:04:46
+
+Q2
+Feb 28, 00:21:02
+
+Q3
+3
+
+Q4
+5
+
+Q5
+MS17-010
+
+Q6
+Microsoft Windows 10 x32/x64 Edition
+
+Q7
+Send the crafted SMB transaction request with fid = 0 and check the response to confirm the vulnerability.

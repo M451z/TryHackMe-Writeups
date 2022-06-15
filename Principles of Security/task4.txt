@@ -1,0 +1,11 @@
+Q1
+The Bell-LaPadula Model
+
+Q2
+The Biba Model
+
+Q3
+The Bell-LaPadula Model
+
+Q4
+The Biba Model

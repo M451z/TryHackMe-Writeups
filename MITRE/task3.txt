@@ -1,0 +1,29 @@
+Q1
+Nay
+
+Q2
+T1566
+
+Q3
+User Training
+
+Q4
+User Execution
+
+Q5
+Dragonfly
+
+Q6
+TG-4192, Crouching Yeti, IRON LIBERTY, Energetic Bear
+
+Q7
+PsExec
+
+Q8
+FIN5
+
+Q9
+2008
+
+Q10
+Windows Credential Editor

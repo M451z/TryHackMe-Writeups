@@ -1,0 +1,47 @@
+Q1
+Windows server 2016
+
+Q2
+administrator
+
+Q3
+03/02/2019 5:48:32 PM
+
+Q4
+10.34.2.3
+
+Q5
+Jenny, Guest
+
+Q6
+Clean file system
+
+Q7
+nc.ps1
+
+Q8
+1348
+
+Q9
+never
+
+Q10
+03/02/2019
+
+Q11
+03/02/2019 4:04:49 PM
+
+Q12
+Mimikatz
+
+Q13
+76.32.97.132
+
+Q14
+.jsp
+
+Q15
+1337
+
+Q16
+google.com

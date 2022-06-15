@@ -1,0 +1,17 @@
+Q1
+yara file2.yar file2/1ndex.php
+
+Q2
+Yay
+
+Q4
+Yay
+
+Q5
+Zepto
+
+Q6
+20
+
+Q7
+700kb

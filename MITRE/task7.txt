@@ -1,0 +1,17 @@
+Q1
+APT33
+
+Q2
+Nay
+
+Q3
+Cloud Accounts
+
+Q4
+Ruler
+
+Q5
+Abnormal or malicious behavior
+
+Q6
+Answer Azure AD, Google Workspace, IaaS, Office 365, SaaS

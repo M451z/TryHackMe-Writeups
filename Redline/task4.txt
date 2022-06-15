@@ -1,0 +1,26 @@
+Q1
+Windows Server 2019 Standard 17763
+
+Q2
+Xen 4.2.amazon
+
+Q3
+MSOfficeUpdateFa.ke
+
+Q4
+THM-p3R5IStENCe-m3Chani$m
+
+Q5
+546
+
+Q6
+Someone cracked my password. Now I need to rename my puppy-++-
+
+Q7
+https://wormhole.app/download-stream/gI9vQtChjyYAmZ8Ody0AuA
+
+Q8
+C:\Program Files (x86)\Windows Mail\SomeMailFolder\flag.txt
+
+Q9
+THM{600D-C@7cH-My-FR1EnD}

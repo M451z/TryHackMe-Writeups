@@ -1,0 +1,11 @@
+Q1
+2021-12-01 13:00:34
+
+Q2
+2021-12-01 13:06:47
+
+Q3
+C:\Program Files\Amazon\Ec2ConfigService\Settings
+
+Q4
+2021-11-30 10:56:19
