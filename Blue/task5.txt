@@ -1,0 +1,8 @@
+Q1
+flag{access_the_machine}
+
+Q2
+flag{sam_database_elevated_access}
+
+Q3
+flag{admin_documents_can_be_valuable}

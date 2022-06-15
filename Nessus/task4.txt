@@ -1,0 +1,14 @@
+Q1
+schedule
+
+Q2
+port scan (all ports)
+
+Q3
+scan low bandwidth links
+
+Q5
+nessus syn scanner
+
+Q6
+2.4.99

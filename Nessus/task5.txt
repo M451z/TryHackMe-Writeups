@@ -1,0 +1,14 @@
+Q1
+10107
+
+Q2
+login.php
+
+Q3
+.bak
+
+Q4
+/external/phpids/0.6/docs/examples/
+
+Q5
+clickjacking

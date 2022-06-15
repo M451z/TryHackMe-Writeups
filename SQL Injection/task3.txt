@@ -1,0 +1,8 @@
+Q1
+SELECT
+
+Q2
+UNION
+
+Q3
+INSERT

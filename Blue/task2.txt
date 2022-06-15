@@ -1,0 +1,5 @@
+Q2
+exploit/windows/smb/ms17_010_eternalblue
+
+Q3
+RHOSTS

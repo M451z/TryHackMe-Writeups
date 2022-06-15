@@ -1,0 +1,20 @@
+Q1
+new scan
+
+Q2
+policies
+
+Q3
+plugin rules
+
+Q4
+host discovery
+
+Q5
+basic network scan
+
+Q6
+credential patch audit
+
+Q7
+web applications tests
