@@ -1,0 +1,29 @@
+Q1
+2
+
+Q2
+SSH
+
+Q3
+CVE-2019-9053
+
+Q4
+SQLi
+
+Q5
+secret
+
+Q6
+SSH
+
+Q7
+G00d j0b, keep up!
+
+Q8
+sunbath
+
+Q9
+vim
+
+Q10
+W3ll d0n3. You made it!
