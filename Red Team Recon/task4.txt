@@ -1,0 +1,5 @@
+Q1
+filetype:xls site:clinic.thmredteam.com
+
+Q2
+passwords site:clinic.thmredteam.com
