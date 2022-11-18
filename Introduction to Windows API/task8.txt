@@ -1,0 +1,5 @@
+Q1
+GetProcAddress
+
+Q2
+LoadLibrary

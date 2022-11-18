@@ -1,0 +1,5 @@
+Q1
+DllImport
+
+Q2
+External
